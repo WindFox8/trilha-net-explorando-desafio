@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HmEZYGJaCu3DJQEpEifkmZEj+Z4zGHkl6iXx/xXsYSEfxJG13mYSuEZjQqyZzvH+yp1VoZZFeGLgPL1NXLN/Dw==",
+  "dgSpecHash": "7sLhxQRCkBl3KvB+IxMvFp3ZEPjE0plq39F9RKgfmmqcqOh7H80wt7/+57be4GWkZZpPuh07bgURH2v2soXvSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\est.rafael.correr\\Downloads\\trilha-net-explorando-desafio-main\\trilha-net-explorando-desafio-main\\DesafioProjetoHospedagem.csproj",
+  "projectFilePath": "C:\\Users\\est.rafael.correr\\Downloads\\trilha-net-explorando-desafio-main\\DesafioProjetoHospedagem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\est.rafael.correr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
     "C:\\Users\\est.rafael.correr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",

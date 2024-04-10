@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\est.rafael.correr\\Downloads\\trilha-net-explorando-desafio-main\\trilha-net-explorando-desafio-main\\DesafioProjetoHospedagem.csproj": {}
+    "C:\\Users\\est.rafael.correr\\Downloads\\trilha-net-explorando-desafio-main\\DesafioProjetoHospedagem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\est.rafael.correr\\Downloads\\trilha-net-explorando-desafio-main\\trilha-net-explorando-desafio-main\\DesafioProjetoHospedagem.csproj": {
+    "C:\\Users\\est.rafael.correr\\Downloads\\trilha-net-explorando-desafio-main\\DesafioProjetoHospedagem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\est.rafael.correr\\Downloads\\trilha-net-explorando-desafio-main\\trilha-net-explorando-desafio-main\\DesafioProjetoHospedagem.csproj",
+        "projectUniqueName": "C:\\Users\\est.rafael.correr\\Downloads\\trilha-net-explorando-desafio-main\\DesafioProjetoHospedagem.csproj",
         "projectName": "DesafioProjetoHospedagem",
-        "projectPath": "C:\\Users\\est.rafael.correr\\Downloads\\trilha-net-explorando-desafio-main\\trilha-net-explorando-desafio-main\\DesafioProjetoHospedagem.csproj",
+        "projectPath": "C:\\Users\\est.rafael.correr\\Downloads\\trilha-net-explorando-desafio-main\\DesafioProjetoHospedagem.csproj",
         "packagesPath": "C:\\Users\\est.rafael.correr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\est.rafael.correr\\Downloads\\trilha-net-explorando-desafio-main\\trilha-net-explorando-desafio-main\\obj\\",
+        "outputPath": "C:\\Users\\est.rafael.correr\\Downloads\\trilha-net-explorando-desafio-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\est.rafael.correr\\AppData\\Roaming\\NuGet\\NuGet.Config"
